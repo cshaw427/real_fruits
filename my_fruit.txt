@@ -2,3 +2,6 @@ oranges
 grapes
 bananas
 apples
+plums
+peaches
+mangos
